@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PCRD04B-rescue)(type Legacy)(uri ${KIPRJMOD}/PCRD04B-rescue.lib)(options "")(descr ""))
+)
