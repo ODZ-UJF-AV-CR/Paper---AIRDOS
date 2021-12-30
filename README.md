@@ -1,4 +1,4 @@
-# Paper about AIROS dosimeter
+# Paper about AIRDOS dosimeter
 
 [AIRDOS — open-source PIN diode airborne
 dosimeter](https://iopscience.iop.org/article/10.1088/1748-0221/16/03/T03006/pdf)
